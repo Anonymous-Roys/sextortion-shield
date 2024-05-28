@@ -1,0 +1,42 @@
+[
+  {
+    "firstname": "Kwame",
+    "lastname": "Nkrumah",
+    "ghanaCardNumber": "GHA-1234567890",
+    "age": 35,
+    "location": "Accra",
+    "housenumber": "123A"
+  },
+  {
+    "firstname": "Akosua",
+    "lastname": "Appiah",
+    "ghanaCardNumber": "GHA-0987654321",
+    "age": 29,
+    "location": "Kumasi",
+    "housenumber": "456B"
+  },
+  {
+    "firstname": "Kojo",
+    "lastname": "Mensah",
+    "ghanaCardNumber": "GHA-1122334455",
+    "age": 42,
+    "location": "Tamale",
+    "housenumber": "789C"
+  },
+  {
+    "firstname": "Efua",
+    "lastname": "Osei",
+    "ghanaCardNumber": "GHA-6677889900",
+    "age": 31,
+    "location": "Takoradi",
+    "housenumber": "321D"
+  },
+  {
+    "firstname": "Yaw",
+    "lastname": "Boateng",
+    "ghanaCardNumber": "GHA-5544332211",
+    "age": 38,
+    "location": "Cape Coast",
+    "housenumber": "654E"
+  }
+]
