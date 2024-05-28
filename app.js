@@ -20,7 +20,7 @@ connectToDb((err) => {
 });
 
 // Routes
-app.get('/', verifyApiKey, (req, res) => {
+app.get('/', (req, res) => {
     // Current page (pagination)
     const page = req.query.p || 0;
     const usersPerPage = 3; // Current page size (pagination)
